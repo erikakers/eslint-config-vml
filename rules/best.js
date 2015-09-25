@@ -43,6 +43,7 @@ module.exports = {
   'eqeqeq': 2,
   'guard-for-in': 2,
   'no-caller': 2,
+  'no-console': 1,
   'no-else-return': 2,
   'no-eq-null': 2,
   'no-eval': 2,

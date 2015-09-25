@@ -60,7 +60,6 @@ module.exports = {
     'key-spacing': [2, {'beforeColon': false, 'afterColon': true}],
     'linebreak-style': [2, 'unix'],
     'newline-after-var': [2, 'always'],
-    'no-console': 1,
     'no-spaced-func': 2,
     'no-else-return': 2
   }

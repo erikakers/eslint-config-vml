@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-vml",
+  "version": "0.1.0",
+  "description": "VML Base ESLint configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Erik Akers",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^4.1.3",
+    "eslint": "^1.5.0",
+    "eslint-plugin-react": "^3.4.2"
+  }
+}

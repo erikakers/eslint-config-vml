@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vml",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "VML Base ESLint configurations.",
   "main": "index.js",
   "scripts": {

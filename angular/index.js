@@ -36,7 +36,7 @@ module.exports = {
     // If you have one empty controller, maybe you have linked it in your Router configuration or in one of your views.
     "angular/empty-controller": 1,
     // All your file names should match the angular component name.
-    "angular/file-name": 1,
+    "angular/file-name": 0,
     // All your filters should have a name starting with the parameter you can define in your config object.
     "angular/filter-name": 0, // ie. [2, "vml"]
     // angular.forEach method instead of the default JavaScript implementation [].forEach.

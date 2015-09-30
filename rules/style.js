@@ -23,7 +23,7 @@ module.exports = {
     // this option enforces minimum and maximum identifier lengths (variable names, property names etc.)
     "id-length": 1,
     // this option sets a specific tab width for your code
-    "indent": [2, 2, {"SwitchCase": 1, "VariableDeclarator": 2}],
+    "indent": [2, 4, {"SwitchCase": 1, "VariableDeclarator": 2}],
     // enforces spacing between keys and values in object literal properties
     "key-spacing": [2, {"beforeColon": false, "afterColon": true}],
     // enforces empty lines around comments

@@ -5,7 +5,7 @@ module.exports = {
   ],
   "rules": {
     // The angular.element method should be used instead of the $ or jQuery object
-    "angular/angularelement": 1,
+    "angular/angularelement": 2,
     // The number of AngularJS components in one file should be limited.
     "angular/component-limit": [1, 1],
     // Should not set properties on $scope in controllers. Use controllerAs syntax and add data to 'this'.

@@ -32,7 +32,7 @@ module.exports = {
       "explicit": "never"
     }],
     // Instead of the default document object, you should prefer the AngularJS wrapper service $document.
-    "angular/document-service": 2,
+    "angular/document-service": 0,
     // If you have one empty controller, maybe you have linked it in your Router configuration or in one of your views.
     "angular/empty-controller": 1,
     // All your file names should match the angular component name.

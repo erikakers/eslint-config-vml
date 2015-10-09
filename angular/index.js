@@ -19,7 +19,7 @@ module.exports = {
     // When you want to create a new promise, you should not use the $q.deferred anymore.
     "angular/deferred": 0,
     // You should use the angular.isUndefined or angular.isDefined methods instead of using the keyword undefined.
-    "angular/definedundefined": 2,
+    "angular/definedundefined": 0,
     // All your DI should use the same syntax : the Array or function syntaxes
     "angular/di": [2, "function"],
     // Injected dependencies should be sorted alphabetically.

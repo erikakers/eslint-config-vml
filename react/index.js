@@ -9,13 +9,13 @@ module.exports = {
     // Enforce boolean attributes notation in JSX
     "react/jsx-boolean-value": 2,
     // Enforce or disallow spaces inside of curly braces in JSX attributes
-    "react/jsx-curly-spacing": 0,
+    "jsx-curly-spacing": [2, "always"],
     // Prevent duplicate props in JSX
     "react/jsx-no-duplicate-props": 0,
     // Disallow undeclared variables in JSX
     "react/jsx-no-undef": 2,
     // Enforce quote style for JSX attributes
-    "react/jsx-quotes": [2, "double"],
+    "react/jsx-quotes": [2, "single"],
     // Enforce propTypes declarations alphabetical sorting
     "react/jsx-sort-prop-types": 0,
     // Enforce props alphabetical sorting
